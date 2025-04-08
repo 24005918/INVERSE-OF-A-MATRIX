@@ -37,7 +37,7 @@ except np.linalg.LinAlgError:
     print("Matrix is singular and cannot be inverted.")
 
 ## Output:
-![{983E0C8D-3F99-408E-8331-83F10541AB0F}](https://github.com/user-attachments/assets/20b68fa7-d01d-4394-b136-9015fa6970de)
+![{881F37D0-ABF9-4293-9DB7-E0FA5C86BBDA}](https://github.com/user-attachments/assets/120dd00d-5ec4-4be9-a6c1-4d3d978a579e)
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
